@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Avinash Tale  
 
-💻 Cloud & DevOps Enthusiast | ☁️ AWS Practitioner | 🚀 Open Source Contributor | 🎤 Tech Blogger  
+💻 Cloud & DevOps Enthusiast | ☁️ AWS Practitioner | 🚀 Open Source Contributor 
 
 ---
 
