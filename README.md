@@ -5,8 +5,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinash-tale&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-tale&layout=compact&theme=radical)
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashTale99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashTale99&layout=compact&theme=radical)
+
+---
+
+## 🏆 Badges & Achievements
+![Profile Views](https://komarev.com/ghpvc/?username=AvinashTale99&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/AvinashTale99?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/AvinashTale99?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
@@ -23,15 +30,13 @@
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@YOUR-CHANNEL)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/YOUR-ID)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR-ID)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashTale99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-tale-3348b7217)
 
 ---
 
 ## 📈 Contribution Graph
-![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-tale&theme=rogue)
+![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashTale99&theme=rogue)
 
 ---
 
